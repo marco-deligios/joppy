@@ -9,7 +9,6 @@ settings_doc_version = 'Carta servizi biblioteca Udine'
 settings_doc_release = 'Carta servizi biblioteca Udine'
 settings_basename = 'joppy'
 settings_file_name = 'joppy'
-settings_discourse_url = ''
 
 # -- No need to change below here
 
