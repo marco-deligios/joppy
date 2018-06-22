@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Carta servizi biblioteca Udine"
+settings_project_name = "joppy"
 settings_copyright_copyleft = "Comune Udine"
 settings_editor_name = "Comune Udine"
-settings_doc_version = 'Carta servizi biblioteca Udine'
-settings_doc_release = 'Carta servizi biblioteca Udine'
+settings_doc_version = 'joppy'
+settings_doc_release = 'joppy'
 settings_basename = 'joppy'
 settings_file_name = 'joppy'
 
