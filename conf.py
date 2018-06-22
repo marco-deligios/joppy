@@ -2,14 +2,14 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Linee Guida SPID - Rilascio dell'identita' digitale per uso professionale"
-settings_copyright_copyleft = "Agenzia per l'Italia Digitale"
-settings_editor_name = "Agenzia per l'Italia Digitale"
-settings_doc_version = 'Bozza in consultazione'
-settings_doc_release = 'Bozza in consultazione'
-settings_basename = 'lg-spid-rilascio-identita-digitale-uso-professionale'
-settings_file_name = 'lg-spid-rilascio-identita-digitale-uso-professionale'
-settings_discourse_url = 'https://forum.italia.it/'
+settings_project_name = "Carta servizi biblioteca Udine"
+settings_copyright_copyleft = "Comune Udine"
+settings_editor_name = "Comune Udine"
+settings_doc_version = 'Carta servizi biblioteca Udine'
+settings_doc_release = 'Carta servizi biblioteca Udine'
+settings_basename = 'joppy'
+settings_file_name = 'joppy'
+settings_discourse_url = ''
 
 # -- No need to change below here
 
