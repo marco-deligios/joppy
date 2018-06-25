@@ -1,20 +1,54 @@
-Linee Guida SPID - Rilascio dell'identità digitale per uso professionale
-================================================================================
 
-.. admonition:: Consultazione pubblica
+.. _h72786b696c63c4e17d4f576163d38:
 
-   La consultazione pubblica per questo documento è attiva dal 14 giugno al 14 luglio 2018.
+CARTA DEI SERVIZI DELLA BIBLIOTECA CIVICA JOPPI
+###############################################
+
+\ |STYLE0|\ 
+
+\ |IMG1|\ 
+
+(Biblioteca civica Vincenzo Joppi, immagine di \ |LINK1|\  rilasciata con licenza CC BY SA 3.0)
 
 
-Le presenti linee guida normano le modalità di rilascio delle identità digitali per uso professionale cui i gestori di identità digitali del sistema SPID devono attenersi. Tali identità digitali sono quelle utili a provare l’appartenenza di una persona fisica all’organizzazione di una persona giuridica e/o la sua qualità di professionista. Le identità in questione, al contrario, non sono costituiscono prova dei poteri di rappresentanza di una persona giuridica dei quali una persona fisica è eventualmente in possesso né l’appartenenza di un professionista a un determinato ordine professionale o altro elenco qualificato.
+.. toctree::  
+    :maxdepth: 3
+    :caption: Indice dei contenuti
 
-.. toctree::
-   :maxdepth: 1
+    CARTA-SERVIZI-BIBLIOTECA-capitolo-1
+    CARTA-SERVIZI-BIBLIOTECA-capitolo-2
+    CARTA-SERVIZI-BIBLIOTECA-capitolo-3
+    CARTA-SERVIZI-BIBLIOTECA-appendice
 
-   Guida alla consultazione <guida-alla-consultazione.rst>
 
-.. toctree::
-   :caption: Indice dei contenuti
-   :maxdepth: 1
+..  Note:: 
 
-   contents/premessa.rst
+    Questa è la carta dei servizi della Biblioteca comunale del Comune di Udine "Vincenzo Joppi".
+
+
+.. admonition:: Sappi che
+
+    i nostri servizi 
+
+
+|REPLACE1|
+
+
+.. bottom of content
+
+
+.. |STYLE0| replace:: *Approvata con  Deliberazione di Giunta Comunale n 10 del  201712*
+
+
+.. |REPLACE1| raw:: html
+
+    (html tags to embed)
+
+.. |LINK1| raw:: html
+
+    <a href="https://commons.wikimedia.org/wiki/User:Sailko" target="_blank">sailko</a>
+
+
+.. |IMG1| image:: static/index_1.png
+   :height: 428 px
+   :width: 570 px
