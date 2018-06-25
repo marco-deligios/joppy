@@ -5,8 +5,8 @@
 settings_project_name = "joppy"
 settings_copyright_copyleft = "Comune Udine"
 settings_editor_name = "Comune Udine"
-settings_doc_version = 'joppy'
-settings_doc_release = 'joppy'
+settings_doc_version = 'latest'
+settings_doc_release = 'latest'
 settings_basename = 'joppy'
 settings_file_name = 'joppy'
 
