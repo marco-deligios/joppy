@@ -15,10 +15,10 @@ CARTA DEI SERVIZI DELLA BIBLIOTECA CIVICA JOPPI
     :maxdepth: 3
     :caption: Indice dei contenuti
 
-    CARTA-SERVIZI-BIBLIOTECA-capitolo-1
-    CARTA-SERVIZI-BIBLIOTECA-capitolo-2
-    CARTA-SERVIZI-BIBLIOTECA-capitolo-3
-    CARTA-SERVIZI-BIBLIOTECA-appendice
+    CARTA-SERVIZI-BIBLIOTECA-capitolo-1.rst
+    CARTA-SERVIZI-BIBLIOTECA-capitolo-2.rst
+    CARTA-SERVIZI-BIBLIOTECA-capitolo-3.rst
+    CARTA-SERVIZI-BIBLIOTECA-appendice.rst
 
 
 ..  Note:: 
