@@ -1,11 +1,8 @@
-# Linee Guida SPID - Rilascio dell'identità digitale per uso professionale
+# Carta dei Servizi della Biblioteca Joppi del Comune di Udine
 
-Le presenti linee guida normano le modalità di rilascio delle identità digitali per uso professionale cui i gestori di identità digitali del sistema SPID devono attenersi. Tali identità digitali sono quelle utili a provare l’appartenenza di una persona fisica all’organizzazione di una persona giuridica e/o la sua qualità di professionista. Le identità in questione, al contrario, non sono costituiscono prova dei poteri di rappresentanza di una persona giuridica dei quali una persona fisica è eventualmente in possesso né l’appartenenza di un professionista a un determinato ordine professionale o altro elenco qualificato.
+Questo contenitore (repository) contiene i file per esporre la carta dei servizi della Biblioteca Joppi di Udine su Docs Italia. Può essere usato come modello da replicare per la costruzione di altri documenti da visualizzare su Docs Italia.
 
 ## Link al documento e consultazione
 
-Link al documento Docs Italia: https://lg-spid-rilascio-identita-digitale-uso-professionale.readthedocs.io
+Link al documento Docs Italia: http://joppy.readthedocs.io
 
-Link per commenti Forum Italia: https://forum.italia.it/c/documenti-in-consultazione/linee-guida-spid-rilascio-dellidentita-digitale
-
-La consultazione sarà attiva dal 14 giugno 2018 al 14 luglio 2018.
