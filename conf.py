@@ -3,10 +3,10 @@
 
 # -- PROJECT Variables ----------------------------------------------------
 settings_project_name = "joppy"
-settings_copyright_copyleft = "Comune Udine"
-settings_editor_name = "Comune Udine"
-settings_doc_version = 'latest'
-settings_doc_release = 'latest'
+settings_copyright_copyleft = 'Comune Udine'"
+settings_editor_name = 'Comune Udine'
+settings_doc_version = 'version: latest'
+settings_doc_release = 'version: latest'
 settings_basename = 'joppy'
 settings_file_name = 'joppy'
 
@@ -49,7 +49,6 @@ extensions = [
     'sphinx.ext.coverage',
     'sphinx.ext.ifconfig',
     'docs-italia-theme',
-    'sphinxcontrib.discourse'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
