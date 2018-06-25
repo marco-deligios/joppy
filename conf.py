@@ -72,8 +72,6 @@ master_doc = 'index'
 project = settings_project_name
 copyright = settings_copyright_copyleft
 
-# URL of Discourse instance used by sphinxcontrib.discourse extension
-discourse_url = settings_discourse_url
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
