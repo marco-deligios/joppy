@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "joppy"
+settings_project_name = "Carta servizi biblioteca Joppi comune di Udine"
 settings_copyright_copyleft = 'Comune Udine'
 settings_editor_name = 'Comune Udine'
 settings_doc_version = 'version: latest'
