@@ -3,7 +3,7 @@
 
 # -- PROJECT Variables ----------------------------------------------------
 settings_project_name = "joppy"
-settings_copyright_copyleft = 'Comune Udine'"
+settings_copyright_copyleft = 'Comune Udine'
 settings_editor_name = 'Comune Udine'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
