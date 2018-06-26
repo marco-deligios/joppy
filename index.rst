@@ -21,17 +21,9 @@ CARTA DEI SERVIZI DELLA BIBLIOTECA CIVICA JOPPI
     CARTA-SERVIZI-BIBLIOTECA-appendice.rst
 
 
-..  Note:: 
-
-    Questa è la carta dei servizi della Biblioteca comunale del Comune di Udine "Vincenzo Joppi".
-
-
 .. admonition:: Sappi che
 
-    i nostri servizi 
-
-
-|REPLACE1|
+    le pagine HTML che leggi sono editate su Google doc e grazie ad un plugin (\ |LINK2|\ ) vengono inviate ad un repository su Github già trasformate in linguaggio RST pronte per essere compilate su Read the Docs. 
 
 
 .. bottom of content
@@ -40,13 +32,13 @@ CARTA DEI SERVIZI DELLA BIBLIOTECA CIVICA JOPPI
 .. |STYLE0| replace:: *Approvata con  Deliberazione di Giunta Comunale n 10 del  201712*
 
 
-.. |REPLACE1| raw:: html
-
-    (html tags to embed)
-
 .. |LINK1| raw:: html
 
     <a href="https://commons.wikimedia.org/wiki/User:Sailko" target="_blank">sailko</a>
+
+.. |LINK2| raw:: html
+
+    <a href="http://googledocs.readthedocs.io" target="_blank">GGeditor</a>
 
 
 .. |IMG1| image:: static/index_1.png
